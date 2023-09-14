@@ -1,4 +1,3 @@
-<img align="right" width="400" src="https://gifdb.com/images/high/green-flow-stream-data-coding-heqz0r425nqx4qt0.gif">
 <!--
 **mahdi13830510/mahdi13830510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <img align="right" width="400" src="https://gifdb.com/images/high/green-flow-stream-data-coding-heqz0r425nqx4qt0.gif">
+<img src="https://gifdb.com/images/high/green-flow-stream-data-coding-heqz0r425nqx4qt0.gif" alt="https://gifdb.com/images/high/green-flow-stream-data-coding-heqz0r425nqx4qt0.gif" class="transparent shrinkToFit" width="577" height="325">
