@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://gifdb.com/images/high/green-flow-stream-data-coding-heqz0r425nqx4qt0.gif" alt="https://gifdb.com/images/high/green-flow-stream-data-coding-heqz0r425nqx4qt0.gif" class="transparent shrinkToFit" width="577" height="325">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752" alt="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752" class="transparent shrinkToFit" width="71" height="40">
