@@ -1,7 +1,5 @@
 <!-- ╔══════════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                                                                              ║ -->
 <!-- ║                $ ./mahdi --mode=interactive --verbose                        ║ -->
-<!-- ║                                                                              ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
@@ -9,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=260&section=header&text=Mahdi&fontSize=86&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=Machine%20Learning%20%C2%B7%20Privacy%20%C2%B7%20Distributed%20Systems&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=Training+models+that+respect+your+data.;Federated+%E2%80%A2+Differentially+Private+%E2%80%A2+Adversarially+Robust;Building+systems+that+scale+to+millions.;Open-source+by+default%2C+private+by+design." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=Training+models+that+respect+your+data.;Federated+%E2%80%A2+Differentially+Private+%E2%80%A2+Adversarially+Robust;Open-source+by+default%2C+private+by+design." alt="Typing animation" />
 </a>
 
 <br/><br/>
@@ -26,37 +24,13 @@
 
 ```python
 class Mahdi:
-    """A human running on coffee and curiosity."""
-
-    def __init__(self):
-        self.role          = "ML Engineer / Researcher / Systems Tinkerer"
-        self.location      = "$HOME"
-        self.focus         = ["Privacy-Preserving ML", "Federated Learning",
-                              "Semi-Supervised Learning", "Distributed Systems"]
-        self.exploring     = ["Mechanistic Interpretability",
-                              "Differential Privacy",
-                              "Adversarial Robustness",
-                              "Confidential Computing"]
-        self.philosophy    = "Models should learn from data, not memorize it."
-
-    def current_status(self):
-        return "Reading papers > training models > breaking them > repeat"
-
-    def __repr__(self):
-        return "<Mahdi: builds things that don't leak>"
+    role       = "ML Engineer / Researcher / Systems Tinkerer"
+    focus      = ["Privacy-Preserving ML", "Federated Learning",
+                  "Semi-Supervised Learning", "Distributed Systems"]
+    exploring  = ["Mechanistic Interpretability", "Differential Privacy",
+                  "Adversarial Robustness", "Confidential Computing"]
+    motto      = "Models should learn from data, not memorize it."
 ```
-
----
-
-## `> cat research_interests.md`
-
-I spend most of my time at the intersection of three things.
-
-**Machine Learning that doesn't betray its users.** Differential privacy isn't a buzzword on my desk — it's a budget I track. I work on training pipelines where the loss function isn't the only thing being minimized; privacy leakage matters too. Federated learning, secure aggregation, DP-SGD, membership inference defenses — this is the playground.
-
-**Learning from less.** Labeled data is expensive, sometimes impossible. Semi-supervised, self-supervised, and active learning approaches let models pull signal from the noise of the unlabeled real world. FixMatch, MixMatch, contrastive learning, pseudo-labeling — give me 1% labels and I'll find a way.
-
-**Systems that survive contact with reality.** A model in a Jupyter notebook is a hypothesis. A model serving traffic across a Kubernetes cluster is engineering. I care about the boring infrastructure that makes the interesting research deployable.
 
 ---
 
@@ -76,7 +50,7 @@ I spend most of my time at the intersection of three things.
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![W&B](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Ray](https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white)
 
@@ -101,6 +75,7 @@ Optimization    : Adam, AdamW, SGD-momentum, LR schedules, mixed precision
 ![PySyft](https://img.shields.io/badge/PySyft-2D2D2D?style=for-the-badge&logo=openmined&logoColor=white)
 ![Flower](https://img.shields.io/badge/Flower-FF5F00?style=for-the-badge)
 ![CrypTen](https://img.shields.io/badge/CrypTen-3B5998?style=for-the-badge&logo=meta&logoColor=white)
+![SGX](https://img.shields.io/badge/Intel_SGX-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
 ```
 Privacy            : Differential Privacy (DP-SGD, PATE), k-Anonymity, l-Diversity
@@ -127,7 +102,7 @@ Auditing           : LiRA, Privacy Accounting (RDP, GDP), Canary Insertion
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
@@ -188,10 +163,6 @@ Storage    : etcd, ZooKeeper, Cassandra, ScyllaDB, MinIO, Ceph
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=mahdi13830510&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=FF00AA&fire=FFAA00&currStreakLabel=00F7FF" alt="GitHub streak" />
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdi13830510&theme=tokyo-night&bg_color=0D1117&color=00F7FF&line=FF00AA&point=FFAA00&hide_border=true&area=true" alt="Activity graph" />
-
 </div>
 
 ---
@@ -206,49 +177,69 @@ Storage    : etcd, ZooKeeper, Cassandra, ScyllaDB, MinIO, Ceph
 
 ---
 
-## `> tail -f reading_list.log`
+## `> ./contribution_graph.sh --animate`
 
-A non-exhaustive list of papers I keep returning to:
+<div align="center">
 
-```
-[2024] Scaling Monosemanticity (Anthropic)        — interpretability is back
-[2017] Attention Is All You Need (Vaswani et al.) — the one that started it
-[2016] Deep Learning with Differential Privacy    — Abadi et al., DP-SGD origin
-[2017] Communication-Efficient Learning (FedAvg)  — McMahan et al.
-[2020] FixMatch                                   — semi-supervised, beautifully simple
-[2020] SimCLR / [2021] BYOL / [2022] MAE          — self-supervised pillars
-[2014] Distillation (Hinton)                      — still relevant a decade later
-[2018] BERT                                       — encoder-only, golden era
-[2022] LoRA                                       — fine-tuning without the GPUs
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdi13830510&theme=tokyo-night&bg_color=0D1117&color=00F7FF&line=FF00AA&point=FFAA00&hide_border=true&area=true" alt="Activity graph" width="100%" />
 
-I take notes in plaintext. Markdown if I'm feeling fancy.
+</div>
 
 ---
 
-## `> cat ~/.config/dotfiles/setup.yaml`
+## `> snake --eat=contributions`
 
-```yaml
-os:        Arch Linux (BTW)
-wm:        Hyprland / i3-gaps depending on mood
-shell:     zsh + oh-my-zsh + powerlevel10k
-editor:    Neovim (LazyVim) — VSCode for pair programming
-terminal:  Kitty + tmux
-font:      JetBrains Mono Nerd Font, ligatures ON
-keybinds:  Vim everywhere — yes, even in the browser
-fuel:      Espresso, double shot, no sugar
-debugger:  print() — I know, I know.
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## `> fortune | cowsay`
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random programming quote" width="80%" />
+
+</div>
+
+---
+
+## `> python -c "import this"`
+
+```text
+$ ./loss_curves --model=research_progress
+
+   loss
+    │
+1.0 ●╲
+    │  ╲
+0.8 │   ╲●─╲
+    │       ╲●─╮
+0.6 │           ╲●──●─╮
+    │                  ╲●──●─╮
+0.4 │                          ╲●──●──●─╮
+    │                                    ╲●──●──●──●
+0.2 │
+    │  papers read · models trained · privacy preserved
+0.0 └────────────────────────────────────────────────────▶ epoch
+    0    100   200   300   400   500   600   700   800
 ```
 
 ---
 
-## `> grep -i "philosophy" notes/*.md`
+## `> ./current_research --tail`
 
-> Models should fail loudly, not silently.
-> A 99% accurate model on the wrong distribution is a 0% accurate product.
-> Privacy is not a feature you bolt on at the end.
-> If the test suite is slow, the test suite is wrong.
-> Cache invalidation, naming things, and off-by-one errors. The list is correct.
+```diff
+@@ ongoing experiments @@
++ DP-SGD with adaptive clipping — does ε stay sane at scale?
++ Federated SSL on non-IID data — pseudo-label drift across clients
++ Membership inference vs label-DP — sharper bounds, better defenses
+- "just throw more compute at it" — usually wrong, occasionally right
+! Reading: anything by Dwork, McMahan, Goodfellow, Olah
+```
 
 ---
 
@@ -274,35 +265,10 @@ debugger:  print() — I know, I know.
 
 </div>
 
----
-
-<details>
-<summary><b>$ ./easter_egg --decode</b></summary>
-
-<br/>
-
-```
-   ╔════════════════════════════════════════════════════════╗
-   ║   You found it.                                        ║
-   ║                                                        ║
-   ║   Decoded payload:                                     ║
-   ║   "The best ML engineers are part scientist,           ║
-   ║    part engineer, part skeptic. Be all three."         ║
-   ║                                                        ║
-   ║   Reward: +1 internet point. Non-redeemable.           ║
-   ╚════════════════════════════════════════════════════════╝
-
-       λ x. (curious x) → (build x) → (share x)
-```
-
-</details>
-
 <br/>
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=100&section=footer" width="100%"/>
-
-<sub>Built with too much caffeine and an unhealthy attachment to monospace fonts.</sub>
 
 </div>
